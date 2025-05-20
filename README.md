@@ -1,5 +1,6 @@
 # Hi there 👋, Franco Ostinelli here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FMOstinelli-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/FMOstinelli-hash.svg?style=social&label=Follow)]([https://github.com/FMOstinelli-hash?tab=followers](https://github.com/FMOstinelli))<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FMOstinelli.repoName)  
+[![GitHub followers](https://img.shields.io/github/followers/FMOstinelli.svg?style=social&label=Follow)](https://github.com/FMOstinelli?tab=followers)<br/>
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
