@@ -65,7 +65,7 @@
 
 <li>
   <a href="https://linkedin.com/in/FranOstinelli" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:30px; height:30px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </li>
 
