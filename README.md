@@ -5,6 +5,7 @@
 # Hi there 👋, Franco Ostinelli here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FMOstinelli.repoName) [![GitHub followers](https://img.shields.io/github/followers/FMOstinelli.svg?style=social&label=Follow)](https://github.com/FMOstinelli?tab=followers)<br/>
 <br>
+<br>
 <!-- Imagen del osito alineada a la derecha -->
 <img align="right" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="300px" alt="Bear typing" style="margin-left: 20px;" />
 
