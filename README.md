@@ -12,7 +12,7 @@
   <div>
   
 <!-- GIF del osito -->
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" alt="Bear typing" width="200px" style="margin-left: 20px;"/>
+  <img align="right" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" alt="Bear typing" width="200px" style="margin-left: 20px;"/>
 </div>    
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
