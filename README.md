@@ -10,13 +10,12 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
-  Technologies and Languages
+- 👀 I’m interested in data analytics, sustainability, process optimization, and leveraging technology to improve decision-making in businesses.
+- 🌱 I’m currently learning advanced data visualization, predictive modeling, and improving my Python and Power BI skills.
+- 💞️ I’m looking to collaborate on data-driven projects related to business strategy, production planning, and ESG (Environmental, Social, and Governance) analysis.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/FranOstinelli) or feel free to connect via GitHub.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy transforming complex datasets into meaningful insights with storytelling and automation tools.
 
 
 <br><br>
